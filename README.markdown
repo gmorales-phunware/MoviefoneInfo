@@ -40,10 +40,13 @@ Please take a moment and read the [Pull request](https://github.com/gmorales-phu
 
 ### iOS
 We currently have no code style best practices. I would like to propose this one: 
+
 [PW Code Style](https://github.com/gmorales-phunware/PW-Objective-C-Style-Guide)
 
 ### Android
-I currently do not have an example of Java best practices, please share one so that I can review. 
+[Android Code Style](https://google.github.io/styleguide/javaguide.html)
+
+[Android Code Conventions](http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html)
 
 ### Both Platforms
 I currently see that both projects are lacking documentation in the code base. Let's make it an effort to document as thoroughly as possible. 
