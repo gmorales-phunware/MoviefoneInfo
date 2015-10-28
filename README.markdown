@@ -16,7 +16,7 @@ These guidelines should be followed at all times. If you feel that this need to 
 * Gabe Morales
 
 ### Project Manager
-* Cody Wimbish
+* Paige
 
 ### Github
 * [iOS](https://github.com/phunware/brandme-app-moviefone-ios)
