@@ -3,25 +3,6 @@ This document is intented to provide some information in regards to developers a
 
 These guidelines should be followed at all times. If you feel that this need to be updated, please submit your request [here](https://github.com/gmorales-phunware/PW-Objective-C-Style-Guide/issues/new).
 
-## Developers
-### iOS
-* Troy Stump - Lead
-* Henry Peng
-
-### Android
-* Vivek Balakrishnan - Lead
-* Josue Rodriguez
-
-### Dev Manager
-* Gabe Morales
-
-### Project Manager
-* Paige
-
-### Github
-* [iOS](https://github.com/phunware/brandme-app-moviefone-ios)
-* [Android](https://github.com/phunware/brandme-app-moviefone-android)
-
 ## Best Practices
 Starting 1.5, this project will follow [Git Flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow). 
 
