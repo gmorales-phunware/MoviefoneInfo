@@ -60,16 +60,6 @@ I would like for you to have added responsibilities that can be worked on when t
 * Help with the sanity of the tickets in JIRA. 
 * Tell me if i'm being a little over the top. =)
 
-## Why i'm doing this
-Ever since I started (not too long ago) I have noticed the following: 
-
-* Code base is not documented.
-* No one is checking the quality of the code.
-* There are no best practices in place.
-* Code is repeated everywhere.
-* Projects are either unfinished or half assed and are submitted to store. 
-* We tend to hack our way into a release candidate. 
-* We give stuff to customers for free. 
 
 I don't know about you but as a developer, I want to keep learning and making sure that I'm doing things properly can not only guarantee that I will improve but sometimes my way of thinking may not be the best. (tired, frurstrated, bored, etc). 
 
